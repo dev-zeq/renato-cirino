@@ -8,3 +8,4 @@ yearFilter.addEventListener('change', () => {
   }
   document.querySelector('#result-count').textContent = count + (count === 1 ? ' resultado' : ' resultados');
 });
+

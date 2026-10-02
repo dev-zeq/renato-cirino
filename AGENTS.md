@@ -6,3 +6,4 @@
 - Não inventar biografia, contatos, resultados, recordes pessoais ou parceiros.
 - Dados pendentes devem permanecer fora das afirmações públicas até confirmação.
 - Usar fotos reais autorizadas e logo oficial quando recebidos.
+
